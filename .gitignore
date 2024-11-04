@@ -1,4 +1,4 @@
-db.sqlite3
+
 
 # Django #
 *.log
@@ -47,9 +47,6 @@ out/
 # JIRA plugin
 atlassian-ide-plugin.xml
 
-# Python #
-*.py[cod]
-*$py.class
 
 # Distribution / packaging
 .Python build/
@@ -131,10 +128,3 @@ Control.ca-bundle
 Control.system-ca-bundle
 GitHub.sublime-settings
 
-# Visual Studio Code #
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-.history
